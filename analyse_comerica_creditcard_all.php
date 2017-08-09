@@ -324,7 +324,7 @@ preg_match_all('/<a.*?href="([^"]+)".*?>/',$all_cards_link_contents,$matches);
 			//Penalty Apr
 			$late_payment_penalty_apr = 'NA';	
 			
-			
+			echo "hello world";
 		
 			
 			
