@@ -325,7 +325,7 @@ preg_match_all('/<a.*?href="([^"]+)".*?>/',$all_cards_link_contents,$matches);
 			$late_payment_penalty_apr = 'NA';	
 			
 			//echo "hello world";
-		echo "hi";
+		echo "hi shrabani";
 			
 			
   	//For creating the serialize file
