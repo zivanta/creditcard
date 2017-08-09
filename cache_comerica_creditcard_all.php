@@ -64,7 +64,7 @@
 					
 					preg_match_all('/<a\shref="([^"]+)"\starget="no">Terms and Conditions/i', $credit_card_contents['body'],$terms_url);
 					pr($terms_url);
-					echo "hello nirmalya";
+					echo "hello nirmalya1";
 					
 					echo $term_url_final="https://online1.elancard.com".$terms_url[1][0];
 					
